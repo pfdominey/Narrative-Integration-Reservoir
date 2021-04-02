@@ -41,7 +41,8 @@ not-the-fall-shift-2.txt
 
 Experiment 4
 
-Reservoir methods
+Reservoir-method
+reservoir-dynamics-impulse
 
 
 
